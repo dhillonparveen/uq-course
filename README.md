@@ -127,64 +127,46 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Ill-posed problems, Bayesian formulation, reminder of the Laplace approximation, reaction kinetics example, shortcomings of the Laplace approximation.
   - [Lecture notebook](lectures/lecture_20.ipynb)
 
-+ Subject to change from this point on.
++ Lecture 21 - Sampling from Posteriors: The Metropolis Algorithm, 03/31/2020.
 
-+ Lecture 19 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_19.ipynb)
-
-+ Lecture 20 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 03/26/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_20.ipynb)
-
-+ Lecture 21 - Sampling from Posteriors: Gibbs Sampling, 03/31/2020.
-
-  - Topics: TBD
+  - Topics: Basics of Markov chains, random walks, Metropolis algorithm, Bayesian calibration of the catalysis problem.
   - [Lecture notebook](lectures/lecture_21.ipynb)
 
-+ Lecture 22 - Sampling from Posteriors: Sequential Monte Carlo, 04/02/2020.
++ Practice Lab - Sampling from Posteriors: The Metropolis Algorithm, 04/02/2020.
 
-  - Topics: TBD.
+  - Use this time to practice on [Lecture notebook 21](lectures/lecture_21.ipynb)
+
++ Lecture 22 - Sampling from Posteriors: The Metropolis-Hastings Algorithm, 04/07/2020.
+
+  - Topics: Metropolis-Hastings, Metropolis-Adjusted Langevin Dynamics, Gibbs sampling, Hierarchical Bayes.
   - [Lecture notebook](lectures/lecture_22.ipynb)
 
-+ Lecture 23 - Bayesian Model Selection, 04/07/2020.
++ Practice Lab - Sampling from Posteriors: The Metropolis-Hastings Algorithm, 04/09/2020.
+
+    - Use this time to practice on [Lecture notebook 22](lectures/lecture_22.ipynb)
+
++ Lecture 23 - PyMC3 Tutorial, 04/14/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_23.ipynb)
 
-+ Lecture 24 - Estimating Posteriors: Variational Inference, 04/09/2020.
++ Lecture 24 - Bayesian Model Selection using Sequential Monte Carlo, 04/16/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_24.ipynb)
 
-+ Lecture 25 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/14/2020.
++ Practice Lab - Bayesian Model Selection using Sequential Monte Carlo, 04/21/2020.
+
+  - Use this time to practice on [Lecture notebook 24](lectures/lecture_24.ipynb)
+
++ Lecture 25 - Estimating Posteriors: Variational Inference, 04/28/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Lecture 26 - Bayesian Model Selection with Variational Inference, 04/16/2020.
++ Practice Lab - Estimating Posteriors: Variational Inference, 04/30/2020.
 
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_26.ipynb)
-
-+ Lecture 27 - Deep Neural Networks (Part I), 04/21/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_27.ipynb)
-
-+ Lecture 28 - Deep Neural Networks (Part II), 04/23/2020.
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_28.ipynb)
-
-+ Lecture 29 - Deep Neural Networks (Part III), 04/28/2020
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_29.ipynb)
-
-+ Lecture 30 - Deep Neural Networks (Part IV), 04/30/2020
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_30.ipynb)
+  - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
 
 ## Homework Notebooks
 
@@ -192,19 +174,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 2 - (Lectures 7-10)](homeworks/hw_02.ipynb), due 02/18/2020.
 
-+ [Homework 3 - (Lectures 12-13)](homeworks/hw_03.ipynb), due 03/05/2020.
++ [Homework 3 - (Lectures 12-13)](homeworks/hw_03.ipynb), due 03/12/2020.
 
-+ Tentative, [Homework 4 - (Lectures 12-13)](homeworks/hw_04.ipynb): due 03/03/2020.
++ [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 03/03/2020.
 
-+ Tentative, [Homework 5 - (Lectures 14-15)](homeworks/hw_05.ipynb): due 03/10/2020.
++ Tentative, [Homework 5 - (Lectures TBD](homeworks/hw_05.ipynb): due TBD
 
-+ Tentative, [Homework 6 - (Lectures 16-17)](homeworks/hw_06.ipynb), due 03/24/2020.
-
-+ Tentative, [Homework 7 - (Lectures 18-20)](homeworks/hw_07.ipynb), due 04/02/2020.
-
-+ Tentative, [Homework 8 - (Lectures 20-24)](homeworks/hw_08.ipynb), due 04/21/2020.
-
-+ Tentative, [Homework 9 - (Lectures 25-29)](homeworks/hw_08.ipynb), due 05/03/2020.
++ Tentative, [Homework 6 - (Lectures TBD)](homeworks/hw_06.ipynb), due TBD
 
 ## Project submission timeline
 
